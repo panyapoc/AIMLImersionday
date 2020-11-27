@@ -5,8 +5,13 @@ https://dashboard.eventengine.run/login
 
 ## Start Your Lab Here
 
-## Lab 1 Amazon Rekognition Custom labels
+## Lab 1 Amazon Rekognition 
+
+###Code Sample for Rekognition
 https://rekognition-immersionday.workshop.aws/
 
-## Lab 2 Building Serverless Web App
+###Rekognition Custom label
+https://github.com/apac-ml-tfc/computer-vision-workshops
+
+## Lab 2 Amazon Personalize 
 https://github.com/aws-samples/amazon-personalize-samples/tree/master/next_steps/workshops/POC_in_a_box

@@ -14,4 +14,4 @@ https://rekognition-immersionday.workshop.aws/
 https://github.com/apac-ml-tfc/computer-vision-workshops
 
 ## Lab 2 Amazon Personalize 
-https://github.com/aws-samples/amazon-personalize-samples/tree/master/next_steps/workshops/POC_in_a_box
+https://github.com/aws-samples/amazon-personalize-samples

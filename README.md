@@ -7,10 +7,10 @@ https://dashboard.eventengine.run/login
 
 ## Lab 1 Amazon Rekognition 
 
-###Code Sample for Rekognition
+### Code Sample for Rekognition
 https://rekognition-immersionday.workshop.aws/
 
-###Rekognition Custom label
+### Rekognition Custom label
 https://github.com/apac-ml-tfc/computer-vision-workshops
 
 ## Lab 2 Amazon Personalize 
